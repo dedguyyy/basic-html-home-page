@@ -1,0 +1,18 @@
+HTML Tags Used:
+ 1.<h1>
+ 2.<h2>
+ 3.<h3>
+ 4.<div>
+ 5.<input>
+ 6.<button>
+ 7.<label>
+ 8.<b>
+ 9.<i>
+ 10.<p>
+CSS properties used:
+ 1.font-size
+ 2.margin
+ 3.padding
+ 4.background-color
+ 5.color
+Brief Description:Used Java script to add an interactive button that responds to user's input and used Bootstrap to stylise the website.
